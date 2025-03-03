@@ -1,0 +1,11 @@
+list of branch Command 
+
+git branch -a
+
+or 
+git branch -r
+
+git brach switch command 
+
+$ git checkout backend
+
